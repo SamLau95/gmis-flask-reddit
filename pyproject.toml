@@ -1,15 +1,9 @@
 [project]
 name = "gmis-freddit"
 version = "0.1.0"
-description = "Simple Flask app managed by uv"
+description = "Simple Reddit clone in Flask"
 readme = "README.md"
 requires-python = ">=3.10"
 dependencies = [
   "flask>=3.0"
 ]
-
-[build-system]
-requires = ["hatchling"]
-build-backend = "hatchling.build"
-
-
