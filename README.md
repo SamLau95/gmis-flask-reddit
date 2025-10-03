@@ -1,6 +1,6 @@
 # gmis-freddit
 
-A minimal Flask app managed by uv.
+A minimal Flask app clone of Reddit.
 
 ## Requirements
 
@@ -35,6 +35,4 @@ Or run directly with Python:
 uv run python app.py
 ```
 
-Open http://127.0.0.1:5000/ to see "Hello, World!".
-
-
+Open http://127.0.0.1:5000/ to see the website.
