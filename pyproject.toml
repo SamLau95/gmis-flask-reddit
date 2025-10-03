@@ -1,5 +1,5 @@
 [project]
-name = "gmis-freddit"
+name = "gmis-flask-reddit"
 version = "0.1.0"
 description = "Simple Reddit clone in Flask"
 readme = "README.md"
