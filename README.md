@@ -1,4 +1,5 @@
-**CAHSI – GMiS – Student Generative AI Session**
+# CAHSI – GMiS – Student Generative AI Session
+
 **Activity: Reddit Clone in Flask**
 **October 2025**
 
